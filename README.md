@@ -1,3 +1,1 @@
-![Banner](https://raw.githubusercontent.com/Vaneeyo/Vaneeyo/main/BANNER.png)
-
-Trying currently to make some webapps, nothing more than that.
+![Banner](https://cdn.discordapp.com/attachments/975048481918046228/1046201091513126922/Logo_in_1920x1080.png)
